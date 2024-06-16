@@ -1,1 +1,1 @@
-My first coding project was has EDA and BI techniques to analaze a subset of some Amazon Sales Data!
+My first coding project which shows EDA and BI techniques to analyze a subset of some Amazon Sales Data!
