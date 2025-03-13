@@ -102,6 +102,6 @@ The project workflow included:
 - Customer journey mapping
 
 ## Contact
-Nolan Robbins - [Medium Profile]([https://github.com/your-username](https://medium.com/@nolanrobbins5934)
-Nolan Robbins = [LinkedIn Profile](https://www.linkedin.com/in/nolan-robbins-2768b2150/)
+[Medium Profile](https://medium.com/@nolanrobbins5934)
+[LinkedIn Profile](https://www.linkedin.com/in/nolan-robbins-2768b2150/)
 
