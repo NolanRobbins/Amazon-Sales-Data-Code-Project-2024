@@ -1,6 +1,6 @@
 # Amazon Sales Business Analytics Project
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Amazon+Sales+Dashboard)
+![Dashboard Screenshot](./images/dashboard.jpeg)
 
 ## Project Overview
 This project analyzes the Kaggle Amazon Sales Dataset to provide business intelligence insights through exploratory data analysis (EDA) and an interactive Streamlit dashboard. The project focuses on customer segmentation, product profitability, geographical analysis, and fulfillment metrics.
